@@ -2,4 +2,5 @@
 </script>
 <template>
    <Navbar />
+   <NuxtPage />
 </template>
